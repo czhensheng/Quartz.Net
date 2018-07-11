@@ -1,0 +1,11 @@
+F:\Person\Project\Quartz\demo_core_3.x\bin\Debug\netcoreapp2.1\demo_core_3.x.deps.json
+F:\Person\Project\Quartz\demo_core_3.x\bin\Debug\netcoreapp2.1\demo_core_3.x.runtimeconfig.json
+F:\Person\Project\Quartz\demo_core_3.x\bin\Debug\netcoreapp2.1\demo_core_3.x.runtimeconfig.dev.json
+F:\Person\Project\Quartz\demo_core_3.x\bin\Debug\netcoreapp2.1\demo_core_3.x.dll
+F:\Person\Project\Quartz\demo_core_3.x\obj\Debug\netcoreapp2.1\demo_core_3.x.csprojAssemblyReference.cache
+F:\Person\Project\Quartz\demo_core_3.x\obj\Debug\netcoreapp2.1\demo_core_3.x.csproj.CoreCompileInputs.cache
+F:\Person\Project\Quartz\demo_core_3.x\obj\Debug\netcoreapp2.1\demo_core_3.x.AssemblyInfoInputs.cache
+F:\Person\Project\Quartz\demo_core_3.x\obj\Debug\netcoreapp2.1\demo_core_3.x.AssemblyInfo.cs
+F:\Person\Project\Quartz\demo_core_3.x\bin\Debug\netcoreapp2.1\demo_core_3.x.pdb
+F:\Person\Project\Quartz\demo_core_3.x\obj\Debug\netcoreapp2.1\demo_core_3.x.dll
+F:\Person\Project\Quartz\demo_core_3.x\obj\Debug\netcoreapp2.1\demo_core_3.x.pdb
