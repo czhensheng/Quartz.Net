@@ -1,0 +1,17 @@
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\demo_fx_2.6.exe.config
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\demo_fx_2.6.exe
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\demo_fx_2.6.pdb
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Common.Logging.Core.dll
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Common.Logging.dll
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Quartz.dll
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Common.Logging.pdb
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Common.Logging.xml
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Common.Logging.Core.pdb
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Common.Logging.Core.xml
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Quartz.pdb
+D:\Code\dotnet\Quartz\demo_fx_2.6\bin\Debug\Quartz.xml
+D:\Code\dotnet\Quartz\demo_fx_2.6\obj\Debug\demo_fx_2.6.csprojAssemblyReference.cache
+D:\Code\dotnet\Quartz\demo_fx_2.6\obj\Debug\demo_fx_2.6.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\Quartz\demo_fx_2.6\obj\Debug\demo_fx_2.6.csproj.CopyComplete
+D:\Code\dotnet\Quartz\demo_fx_2.6\obj\Debug\demo_fx_2.6.exe
+D:\Code\dotnet\Quartz\demo_fx_2.6\obj\Debug\demo_fx_2.6.pdb
